@@ -1,7 +1,13 @@
-# openBIS-UGM2025-hackaton-topics
-This repository should be used to share topics that openBIS users would like to propose for the hackaton sessions that will take place at the openBIS UGM 2025, in Berlin between 22nd and 25th of September 2025.
+# openBIS UGM 2025
 
-Please use the following template:
+The [openBIS User Group Meeting 2025](https://openbis.ch/index.php/openbis-ugm-2025/) will take place between 22nd and 24th/25th of September in Berlin.
+
+This repository should be used:
+1. for suggestions from users on trainings to have on day 2 of the openBIS UGM 20205.
+2. to share topics that openBIS users would like to propose for the hackaton sessions on day 3 and possibly 4 of the openBIS UGM 2025. 
+   
+
+For submission of hackaton topics, please use the following template:
 
 **Title of the proposed topic for the hackaton sessions:** 
 
