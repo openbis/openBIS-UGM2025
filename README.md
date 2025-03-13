@@ -4,11 +4,17 @@ This repository should be used to share topics that openBIS users would like to 
 Please use the following template:
 
 **Title of the proposed topic for the hackaton sessions:** 
+
 **Name of person proposing the topic:** 
+
 **Organization Name:** 
+
 **Technologies used:**  eg. Java, JavaScript, Python, etc.. 
+
 **URL of public repositories of the project:** GitHub, Gitlab, etc... 
+
 **Summary of the project:** 
+
 The summary should be no shorter than half a page and no longer than 4 pages.  
 The summary should provide enough details for: 
 - the openBIS development team to asses if they will have capacity to work on the proposed topic during the hackaton days 
