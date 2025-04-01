@@ -9,7 +9,7 @@
 ### Summary:
 
 I would like to conduct a hackathon session while joiners with different personal computers (company managed, self managed) with different operating systems (Linux, MacOS, Windows) could explore a deployment procedure of locally containerized or virtualized deployment of openBIS for early stage of development workflows.
-openBIS is complex, server deployemnt oriented platform with no trivial deployment procedure. However with tools like Docker Desktop, Podman Desktop or full virtualization tools it is possible to do local deployment for early stage of development. 
+openBIS is complex, server oriented platform with no trivial deployment procedure. However with tools like Docker Desktop, Podman Desktop or full virtualization tools it is possible to do local deployment for early stage of development. 
 
 This hackhhaton could explore potenial problems with deploying openBIS. It could explore limitation of several platforms which all openBIS developers and users might be using, synchronize our language used in documentiation and in incidents. It could improve all users and all developers ability to deploy clean vanilla version of openBIS release to verify their own code of functionality, do demonstations to other users without much of the effort, etc.
 
