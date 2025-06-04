@@ -3,8 +3,9 @@
 The [openBIS User Group Meeting 2025](https://openbis.ch/index.php/openbis-ugm-2025/) will take place between 22nd and 24th/25th of September in Berlin.
 
 This repository should be used:
-1. for suggestions from users on trainings to have on day 2 of the openBIS UGM 2025 (see [Discussions](https://github.com/openbis/openBIS-UGM2025/discussions/2)).
-2. to share topics that openBIS users would like to propose for the hackaton sessions on day 3 and possibly 4 of the openBIS UGM 2025. 
+1. for suggestions from users on topics for round table discussions on day 1 of the openBIS UGM 2025 (see [Round Table Discussions](https://github.com/openbis/openBIS-UGM2025/discussions/4)).
+2. for suggestions from users on trainings to have on day 2 of the openBIS UGM 2025 (see [Trainings](https://github.com/openbis/openBIS-UGM2025/discussions/2)).
+3. to share topics that openBIS users would like to propose for the hackaton sessions on day 3 and possibly 4 of the openBIS UGM 2025. 
    
 
 For submission of hackaton topics, please use the following template:
