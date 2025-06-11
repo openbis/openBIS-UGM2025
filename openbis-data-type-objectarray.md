@@ -43,6 +43,7 @@ The `DataType=OBJECTARRAY` should:
 - allow multiple objects of the same `ObjectType` to be added to that `Property`
 - search and select directly multiple objects of the same `ObjectType` (regular expression)
 - automatically warn or reduce to a `SET` if one object is already present (de-duplication)
+
     to be discussed if duplicated values should be possible or not
 
 This `new` feature might help the community to cover the explained scenario not relying on `Parent` and `Children` which can take multiple entries,
