@@ -34,6 +34,6 @@ To use any kind of `Storage` to mimick lab-work, one would need to:
 
      this is important because there are many scenarios where a Researcher writes its own `Notebook` but would still use `OBJECTs` which are stored outside the corresponding `GroupSpace`
 
-     this becomes even more important to technical stuff that are working for `core-facilities` to be able to share `OBJECTs` in `Storages` not linked to any `group`
+     this becomes even more important to technical stuff that are working for `core-facilities` to be able to share `OBJECTs` in `Storages` not linked to any `Group`
 
 This hackaton is an advanced topic to address `Storage Access` in a `multi-group instance` setup, but might high-impact due to its urgent need to correctly and efficiently deal with object storage and object sharing in real wet-lab scenarios.
