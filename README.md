@@ -8,7 +8,7 @@ This repository should be used:
 3. to share topics that openBIS users would like to propose for the hackathon sessions on day 3 and possibly 4 of the openBIS UGM 2025. 
    
 
-For submission of hackathon topics, please use the following template:
+For submission of hackathon topics, please create a new .md file and use the following template:
 
 **Title of the proposed topic for the hackathon sessions:** 
 
