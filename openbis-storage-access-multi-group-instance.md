@@ -23,17 +23,15 @@ URL of public repositories of the project:
 In openBIS it is possible to define `Storages`. These `Storages` are either defined in the `General ELN Settings` or in the `Settings` for each defined `Group`.
 These `Storages` are then bound to these parent `Spaces`.
 
-There are two open topics that we are faced during our work with openBIS and want to address in this hackaton session.
+We propose to support the following usage and management scenarios required in cases where storages are shared among multiple groups:
 
-To use any kind of `Storage` to mimick lab-work, one would need to:
+1. be able to keep and create an /empty/ `Storage`to be filled afterwards (at the moment only possible via the API)
+1. manage `access` rights for that `Storage` so that individual users or groups can access any storage, in particular:
+1. allow `access` beyond the limits of the `active` group or `HomeSpace` (at the moment not possible, the `Storages` cannot be selected)
+1. be able to select `global` `Storages` even from within a `UserSpace` or any other `active` shared `group` experiments
 
-1. be able to keep and create an `empty` `Storage`to be filled afterwards (at the moment only possible via the API)
-2. manage `access` rights for that `Storage`
-3. allow `access` behind the borders of the `active` group or `HomeSpace` (at the moment not possible, the `Storages` just can not be selected)
-5. be able to select `global` `Storages` even from within a `UserSpace` or any other `active` shared `group` experiments
+These features are required in situations where e.g. a researcher writes her own `Notebook` but would still use `OBJECTs` which are stored outside the corresponding `GroupSpace`.
+A prominent scenario is when core facility staff (e.g. sequence lab personal) needs shared access to a groups storage where the samples to be processed in the core facility are stored or where that same
+core facility staff needs to share processed samples stored in the core facilities storage with individual members from other groups.
 
-     this is important because there are many scenarios where a Researcher writes its own `Notebook` but would still use `OBJECTs` which are stored outside the corresponding `GroupSpace`
-
-     this becomes even more important to technical stuff that are working for `core-facilities` to be able to share `OBJECTs` in `Storages` not linked to any `Group`
-
-This hackaton is an advanced topic to address `Storage Access` in a `multi-group instance` setup, but might have high-impact due to its urgent need to correctly and efficiently deal with object storage and object sharing in real wet-lab scenarios.
+This proposal is an advanced topic to address `Storage Access` in a `multi-group instance` setup, but might have high-impact due to its urgent need to correctly and efficiently deal with object storage and object sharing in real wet-lab scenarios.
